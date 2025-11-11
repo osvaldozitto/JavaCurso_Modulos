@@ -5,7 +5,7 @@ public class VariablesAndConstantsExercises {
     public static void main(String[] args) {
 
         // 1. Declara una variable de tipo String y asígnale tu nombre.
-
+String name
         // 2. Crea una variable de tipo int y asígnale tu edad.
 
         // 3. Crea una variable double con tu altura en metros.
