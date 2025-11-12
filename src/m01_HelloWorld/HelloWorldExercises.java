@@ -7,19 +7,19 @@ public class HelloWorldExercises {
         System.out.println("Hola mundo");
 
         // 1. Imprime un mensaje que diga tu nombre en lugar de "¡Hola Mundo!".
-System.out.println ("Hola Osvaldo");
+        System.out.println("Hola Osvaldo");
 
         // 2. Imprime dos líneas: "Hola" y luego "Mundo" con un solo println.
-System.out.println("Hola");
-System.out.println("Mundo");
+        System.out.println("Hola");
+        System.out.println("Mundo");
         // 3. Añade un comentario sobre lo que hace cada línea del programa.
-System.out.println("");
+        System.out.println("");
         // 4. Crea un comentario en varias líneas.
-System.out.println("");
+        System.out.println("");
         // 5. Imprime tu edad, tu color favorito y tu ciudad.
-System.out.println("37");
-System.out.println("Rojo");
-System.out.println("Vitoria");
+        System.out.println("37");
+        System.out.println("Rojo");
+        System.out.println("Vitoria");
         // 6. Explora los diferentes System.XXX.println(); más allá de "out".
         System.err.println("Hola como estas");
         // 7. Utiliza varios println para imprimir una frase.
@@ -29,6 +29,5 @@ System.out.println("Vitoria");
         // 9. Intenta ejecutar el programa sin el método main y observa el error.
 
         //10. Intenta cambiar el nombre del archivo a uno diferente del de la clase y compílalo. ¿Qué pasa?
-
     }
 }
