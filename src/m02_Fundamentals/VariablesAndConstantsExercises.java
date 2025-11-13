@@ -14,7 +14,6 @@ public class VariablesAndConstantsExercises {
         System.out.println(height);
         // 4. Declara una variable de tipo boolean que indique si te gusta programar.
         System.out.println("Me gusta programar");
-        boolean  =
 
         // 5. Declara una constante con tu email.
 
