@@ -33,6 +33,11 @@ public class StringsExercises {
 
         // 6. Formatea un string con un entero.
 
+        String place2 = "Rio de Janeiro";
+        String name3 = "En Rio de Janeiro esta la estatua de Jesus";
+
+        System.out.println(place.trim());
+
         // 7. Elimina los espacios en blanco al principio y final de un string.
 
         // 8. Sustituye todos los espacios en blanco de un string por un guión (-).
